@@ -1,0 +1,35 @@
+:root {
+    --blue: #00256b;
+    --white: #ffffff;
+    --black: #000000; 
+    --light-blue: #6D9EEB;
+    --focus-color: #f9cb9c;
+}
+
+.body {
+    font-size: 5rem;
+    color: var(--white);
+}
+
+.h-full {
+    height: 100%;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.center {
+    align-items: center;
+    justify-content: center;
+}
