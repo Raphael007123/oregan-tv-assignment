@@ -19,9 +19,9 @@ Follow these steps to set up and run the project.
    cd oregan-tv-assignment
 
 2. **Install dependencies**
-
-npm install
+    ```sh
+    npm install
 
 3. **To run the app**
-
-npm run dev
+    ```sh
+    npm run dev
